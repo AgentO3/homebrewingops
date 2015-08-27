@@ -34,3 +34,5 @@ A directory of homebrewing automation projects
 
 [Multi Chamber Fermentation Chamber](http://www.brewgeeks.com/build-a-ferm-chamber.html)
 
+[Water volume sensor using pressure](https://stainlessbrewer.wordpress.com/category/home-brewing-equipment/)
+
