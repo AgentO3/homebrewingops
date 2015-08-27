@@ -30,3 +30,7 @@ A directory of homebrewing automation projects
 
 [Specific Gravity Sensor Discussion](http://forum.brewpi.com/discussion/86/specific-gravity-sensor)
 
+[Fridge Fermentation Chamber](http://www.nchomebrewing.com/diy-mini-fridge-beer-fermentation-chamber-build/)
+
+[Multi Chamber Fermentation Chamber](http://www.brewgeeks.com/build-a-ferm-chamber.html)
+
