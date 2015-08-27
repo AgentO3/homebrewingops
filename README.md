@@ -21,3 +21,12 @@ A directory of homebrewing automation projects
 [Laundry Room Automated Home Brewery](http://hackaday.com/2011/03/28/automated-home-beer-brewery-best-laundry-room-add-on-ever/)
 
 [Bubble Logger](http://hackaday.com/2011/10/24/logging-bubble-frequency-and-pressure-in-your-fermenter/)
+
+[Capacitive Water Level Sensor](http://www.instructables.com/id/Building-a-Capacitive-Liquid-Sensor/)
+
+[Ultrasound Water Level Senor](http://www.instructables.com/id/Sump-pump-water-level-The-hardware/)
+
+[Ambient Temperature Monitor](https://github.com/mattbornski/beerbug)
+
+[Specific Gravity Sensor Discussion](http://forum.brewpi.com/discussion/86/specific-gravity-sensor)
+
