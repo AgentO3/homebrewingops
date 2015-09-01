@@ -36,3 +36,9 @@ A directory of homebrewing automation projects
 
 [Water volume sensor using pressure](https://stainlessbrewer.wordpress.com/category/home-brewing-equipment/)
 
+[PVC Pipe Counter Flow Chiller](http://maltmunchingmashmonsters.com/diy/chiller.html)
+
+[Counterflow wort chiller](https://www.youtube.com/watch?v=DVf-lTFpR2c)
+
+
+
