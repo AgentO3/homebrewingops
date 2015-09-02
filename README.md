@@ -40,5 +40,6 @@ A directory of homebrewing automation projects
 
 [Counterflow wort chiller](https://www.youtube.com/watch?v=DVf-lTFpR2c)
 
+[Arduino and Cloud-based homebrewing controller](https://github.com/thebedroomlaboratory/BrewMonitor)
 
 
