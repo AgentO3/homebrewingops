@@ -43,3 +43,12 @@ A directory of homebrewing automation projects
 [Arduino and Cloud-based homebrewing controller](https://github.com/thebedroomlaboratory/BrewMonitor)
 
 
+## Mash
+
+## Boil
+
+## Cooling
+
+## Fermentation
+
+
