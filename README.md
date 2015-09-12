@@ -42,6 +42,7 @@ A directory of homebrewing automation projects
 
 [Arduino and Cloud-based homebrewing controller](https://github.com/thebedroomlaboratory/BrewMonitor)
 
+[10 Gallon Mash Tun](http://brewgr.com/blog/post/2012/02/09/Homemade-Homebrew-Mash-Tun.aspx)
 
 ## Mash
 
