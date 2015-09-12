@@ -46,6 +46,12 @@ A directory of homebrewing automation projects
 
 [Counterflow PVC Chiller](https://www.reddit.com/r/Homebrewing/comments/2u6d1e/super_easy_diy_counterflow_chiller/)
 
+[Water Filter](https://www.youtube.com/watch?v=Dtx_WBAflUw)
+
+[Copper Sparging Arm](http://www.homebrewtalk.com/showthread.php?t=373313)
+
+
+
 ## Mash
 
 ## Boil
