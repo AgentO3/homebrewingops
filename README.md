@@ -44,6 +44,8 @@ A directory of homebrewing automation projects
 
 [10 Gallon Mash Tun](http://brewgr.com/blog/post/2012/02/09/Homemade-Homebrew-Mash-Tun.aspx)
 
+[Counterflow PVC Chiller](https://www.reddit.com/r/Homebrewing/comments/2u6d1e/super_easy_diy_counterflow_chiller/)
+
 ## Mash
 
 ## Boil
