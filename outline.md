@@ -1,5 +1,5 @@
 
-![bg-40](/img/supplies.jpg)
+![bg-40](img/supplies.jpg)
 
 # HomebrewOps
 
@@ -7,196 +7,196 @@ Adding Automation and <br> Control to The Hobby of Homebrewing
 
 ---
 
-![bg-40](/img/supplies.jpg)
+![bg-40](img/supplies.jpg)
 
 # Homebrewer Evolution
 
 ---
 
-![bg-100](/img/mrbeer.png)
+![bg-100](img/mrbeer.png)
 
 ---
 
-![bg-40](/img/5gallon.jpg)
+![bg-40](img/5gallon.jpg)
 
 # 5 Gallon Batches
 
 ---
 
-![bg-40](/img/mashbag.jpg)
+![bg-40](img/mashbag.jpg)
 
 # Partial Mash
 
 ---
 
-![bg-40](/img/kegs.jpg)
+![bg-40](img/kegs.jpg)
 
 # Kegging
 
 ---
 
-![bg-40](/img/allgrain.jpg)
+![bg-40](img/allgrain.jpg)
 
 # All Grain
 
 ---
 
-![bg-40](/img/flight.jpg)
+![bg-40](img/flight.jpg)
 
 # What's Next?
 
 ---
 
-![bg-100](/img/tworoads.jpg)
+![bg-100](img/tworoads.jpg)
 
 ---
 
-![bg-40](/img/bottling.jpg)
+![bg-40](img/bottling.jpg)
 
 ## Quality & Consistency = Control
 
 ---
 
-![bg-40](/img/owen.jpg)
+![bg-40](img/owen.jpg)
 
 # About Me
 
 ---
 
-![bg-40](/img/pipes.jpg)
+![bg-40](img/pipes.jpg)
 
 # Delivery Pipelines
 
 ---
 
-![bg-40](/img/matrix.gif)
+![bg-40](img/matrix.gif)
 
 # Virtual Engineer
 
 ---
 
-![bg-40](/img/hops.jpg)
+![bg-40](img/hops.jpg)
 
 # Putting Ops in Hops
 
 ---
 
-![bg-20](/img/brewfactory.jpg)
+![bg-20](img/brewfactory.jpg)
 
 # 1) Avoid Premature Optimization
 
 ---
 
-![bg-20](/img/brewfactory.jpg)
+![bg-20](img/brewfactory.jpg)
 
 ## Rise of The BrewBots
 
 ---
 
-![bg-20](/img/brewfactory.jpg)
+![bg-20](img/brewfactory.jpg)
 
-![](/img/picobrew.jpg)
-
----
-
-![bg-20](/img/brewfactory.jpg)
-
-![](/img/brewbot.jpg)
+![](img/picobrew.jpg)
 
 ---
 
-![bg-20](/img/brewfactory.jpg)
+![bg-20](img/brewfactory.jpg)
 
-![](/img/brewie.jpg)
+![](img/brewbot.jpg)
 
 ---
 
-![bg-20](/img/brewfactory.jpg)
+![bg-20](img/brewfactory.jpg)
+
+![](img/brewie.jpg)
+
+---
+
+![bg-20](img/brewfactory.jpg)
 
 
 # 2) Make it Work
 
 ---
 
-![bg-20](/img/brewfactory.jpg)
+![bg-20](img/brewfactory.jpg)
 
-![](/img/brewdaytasks.png)
-
----
-
-![bg-20](/img/brewfactory.jpg)
-
-![](/img/brewdaywait.png)
-
+![](img/brewdaytasks.png)
 
 ---
 
-![bg-20](/img/brewfactory.jpg)
+![bg-20](img/brewfactory.jpg)
 
-![](/img/first-timer.jpg)
+![](img/brewdaywait.png)
+
 
 ---
 
-![bg-40](/img/homebrewbot.jpg)
+![bg-20](img/brewfactory.jpg)
+
+![](img/first-timer.jpg)
+
+---
+
+![bg-40](img/homebrewbot.jpg)
 
 # Then Make It Great
 
 ---
 
-![bg-20](/img/brewfactory.jpg)
+![bg-20](img/brewfactory.jpg)
 
 ### The HomebrewOps Loop
 
-![](/img/brewloop.png)
+![](img/brewloop.png)
 
 ---
 
-![bg-20](/img/brewfactory.jpg)
+![bg-20](img/brewfactory.jpg)
 
 ## Adding Plumbing
 
-![](/img/addvalve.jpg)
+![](img/addvalve.jpg)
 
 ---
 
-![bg-20](/img/brewfactory.jpg)
+![bg-20](img/brewfactory.jpg)
 
 ### Lowes 10 Gallon Mash Tun
 
-![](/img/lowesmash.jpg)
+![](img/lowesmash.jpg)
 
 ---
 
-![bg-40](/img/brewtron.jpg)
+![bg-40](img/brewtron.jpg)
 
 ## Meet BrewTron
 
-![](/img/assemble.gif)
+![](img/assemble.gif)
 
 ---
 
-![bg-40](/img/brewtron.jpg)
+![bg-40](img/brewtron.jpg)
 
 
 MashTron<br/>BoilTron<br/>FermentTron
 
 ---
 
-![bg-40](/img/brewtron.jpg)
+![bg-40](img/brewtron.jpg)
 
 RaspberryPI<br/>DS18B20 Sensor<br/>NodeJS<br/>Cylon.js
 
 ---
 
-![bg-100](/img/brewtron.jpg)
+![bg-100](img/brewtron.jpg)
 
 ---
 
-![bg-100](/img/setup.jpg)
+![bg-100](img/setup.jpg)
 
 ---
 
-![bg-20](/img/brewfactory.jpg)
+![bg-20](img/brewfactory.jpg)
 
 ### Preparing the PI
 
@@ -206,7 +206,7 @@ sudo modprobe w1_gpio && sudo modprobe w1_therm
 
 ---
 
-![bg-20](/img/brewfactory.jpg)
+![bg-20](img/brewfactory.jpg)
 
 ### Preparing the PI
 
@@ -217,7 +217,7 @@ echo "w1_therm" >> /etc/modules
 
 ---
 
-![bg-20](/img/brewfactory.jpg)
+![bg-20](img/brewfactory.jpg)
 
 ### Reading Sensor Data
 
@@ -227,7 +227,7 @@ echo "w1_therm" >> /etc/modules
 
 ---
 
-![bg-20](/img/brewfactory.jpg)
+![bg-20](img/brewfactory.jpg)
 
 ### Reading Sensor Data
 
@@ -238,7 +238,7 @@ echo "w1_therm" >> /etc/modules
 
 ---
 
-![bg-20](/img/brewfactory.jpg)
+![bg-20](img/brewfactory.jpg)
 
 ### Reading Sensor Data
 
@@ -249,7 +249,7 @@ echo "w1_therm" >> /etc/modules
 
 ---
 
-![bg-20](/img/brewfactory.jpg)
+![bg-20](img/brewfactory.jpg)
 
 ### Reading Sensor Data
 
@@ -261,7 +261,7 @@ echo "w1_therm" >> /etc/modules
 
 ---
 
-![bg-20](/img/brewfactory.jpg)
+![bg-20](img/brewfactory.jpg)
 
 ### Reading Sensor Data
 
@@ -273,13 +273,13 @@ echo "w1_therm" >> /etc/modules
 
 ---
 
-![bg-20](/img/brewfactory.jpg)
+![bg-20](img/brewfactory.jpg)
 
 # Cylon.js Intro
 
 ---
 
-![bg-20](/img/brewfactory.jpg)
+![bg-20](img/brewfactory.jpg)
 
 ### Robot
 
@@ -295,7 +295,7 @@ Cylon.robot({
 
 ---
 
-![bg-20](/img/brewfactory.jpg)
+![bg-20](img/brewfactory.jpg)
 
 ### Robot
 
@@ -312,7 +312,7 @@ var Cylon = require('cylon')
 
 ---
 
-![bg-20](/img/brewfactory.jpg)
+![bg-20](img/brewfactory.jpg)
 
 ### Robot
 
@@ -328,7 +328,7 @@ Cylon.robot({
 
 ---
 
-![bg-20](/img/brewfactory.jpg)
+![bg-20](img/brewfactory.jpg)
 
 ### Connections
 
@@ -345,7 +345,7 @@ Cylon.robot({
 
 ---
 
-![bg-20](/img/brewfactory.jpg)
+![bg-20](img/brewfactory.jpg)
 
 ### Connections
 
@@ -362,7 +362,7 @@ Cylon.robot({
 
 ---
 
-![bg-20](/img/brewfactory.jpg)
+![bg-20](img/brewfactory.jpg)
 
 ### Devices
 
@@ -382,7 +382,7 @@ Cylon.robot({
 
 ---
 
-![bg-20](/img/brewfactory.jpg)
+![bg-20](img/brewfactory.jpg)
 
 ### Devices
 
@@ -401,7 +401,7 @@ Cylon.robot({
 
 ---
 
-![bg-20](/img/brewfactory.jpg)
+![bg-20](img/brewfactory.jpg)
 
 ### Utilities
 
@@ -422,7 +422,7 @@ Cylon.robot({
 
 ---
 
-![bg-20](/img/brewfactory.jpg)
+![bg-20](img/brewfactory.jpg)
 
 ### Utilities
 
@@ -443,7 +443,7 @@ Cylon.robot({
 
 ---
 
-![bg-20](/img/brewfactory.jpg)
+![bg-20](img/brewfactory.jpg)
 
 ### Utilities
 
@@ -464,127 +464,127 @@ Cylon.robot({
 
 ---
 
-![bg-40](/img/measure.jpg)
+![bg-40](img/measure.jpg)
 
 # 3) Measure All The Things
 
 ---
 
-![bg-20](/img/brewfactory.jpg)
+![bg-20](img/brewfactory.jpg)
 
 
 # StatsD
 
 ---
 
-![bg-20](/img/brewfactory.jpg)
+![bg-20](img/brewfactory.jpg)
 
 
 # Librato
 
 ---
 
-![bg-20](/img/brewfactory.jpg)
+![bg-20](img/brewfactory.jpg)
 
 
-![](/img/graph2.png)
+![](img/graph2.png)
 
 ---
 
-![bg-20](/img/brewfactory.jpg)
+![bg-20](img/brewfactory.jpg)
 
 
 # 4) Worst is Better
 
 ---
 
-![bg-20](/img/brewfactory.jpg)
+![bg-20](img/brewfactory.jpg)
 
-![](/img/tweet.png)
+![](img/tweet.png)
 
 ---
 
-![bg-20](/img/brewfactory.jpg)
+![bg-20](img/brewfactory.jpg)
 
 # 5) The Backlog
 
 ---
 
-![bg-20](/img/brewfactory.jpg)
+![bg-20](img/brewfactory.jpg)
 
 
 ### Pumps
 
-![](/img/pump.jpg)
+![](img/pump.jpg)
 
 ---
 
-![bg-20](/img/brewfactory.jpg)
+![bg-20](img/brewfactory.jpg)
 
 
 ## Solenoid Valves
 
-![](/img/valves.jpg)
+![](img/valves.jpg)
 
 ---
 
-![bg-20](/img/brewfactory.jpg)
+![bg-20](img/brewfactory.jpg)
 
 ### Water Volume Sensor
 
 ---
 
-![bg-20](/img/brewfactory.jpg)
+![bg-20](img/brewfactory.jpg)
 
 
 ### Cloud Controller
 
 ---
 
-![bg-20](/img/brewfactory.jpg)
+![bg-20](img/brewfactory.jpg)
 
 
 # Build A Community
 
 ---
 
-![bg-20](/img/brewfactory.jpg)
+![bg-20](img/brewfactory.jpg)
 
-![](/img/diybrewbot.jpg)
-
----
-
-![bg-20](/img/brewfactory.jpg)
-
-![](/img/chiller.jpg)
+![](img/diybrewbot.jpg)
 
 ---
 
-![bg-20](/img/brewfactory.jpg)
+![bg-20](img/brewfactory.jpg)
 
-![](/img/bubblelogger.jpg)
-
----
-
-![bg-20](/img/brewfactory.jpg)
-
-![](/img/gravitysensor.jpg)
+![](img/chiller.jpg)
 
 ---
 
-![bg-20](/img/brewfactory.jpg)
+![bg-20](img/brewfactory.jpg)
 
-![](/img/fermentationchamber.jpg)
-
----
-
-![bg-20](/img/brewfactory.jpg)
-
-![](/img/propane.jpg)
+![](img/bubblelogger.jpg)
 
 ---
 
-![bg-20](/img/brewfactory.jpg)
+![bg-20](img/brewfactory.jpg)
+
+![](img/gravitysensor.jpg)
+
+---
+
+![bg-20](img/brewfactory.jpg)
+
+![](img/fermentationchamber.jpg)
+
+---
+
+![bg-20](img/brewfactory.jpg)
+
+![](img/propane.jpg)
+
+---
+
+![bg-20](img/brewfactory.jpg)
 
 
 ## Open Homebrewing Automation Project
@@ -595,14 +595,14 @@ https://github.com/open-homebrewing-project
 
 ## Thank You!
 
-![bg-20](/img/brewfactory.jpg)
+![bg-20](img/brewfactory.jpg)
 
-![](/img/doge.jpg)
+![](img/doge.jpg)
 
 
 ---
 
-![bg-20](/img/brewfactory.jpg)
+![bg-20](img/brewfactory.jpg)
 
 ## References
 
@@ -610,7 +610,7 @@ https://github.com/open-homebrewing-project
 
 ---
 
-![bg-20](/img/brewfactory.jpg)
+![bg-20](img/brewfactory.jpg)
 
 ## Code
 
